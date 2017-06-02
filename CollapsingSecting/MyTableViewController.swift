@@ -9,7 +9,7 @@
 import UIKit
 
 class MyTableViewController: UITableViewController {
-    let rows = 5
+    let rows = 2
     var categories = [Int](repeating: 0, count: 10)
     
     struct Constants {
